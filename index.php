@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 	<title>	Cruzach Film	</title>
 	<link href="css/index.css" rel="stylesheet" type="text/css"/>
-	<script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 	<script src="js/jquery.uploadify.min.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="css/uploadify.css">
@@ -28,7 +28,7 @@
 		});
 	</script>
 	<!--Adobe Edge Runtime-->
-    <script type="text/javascript" charset="utf-8" src="index_edgePreload.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/index_edgePreload.js"></script>
     <style>
         .edgeLoad-EDGE-1527236 { visibility:hidden; }
         .bar {
