@@ -556,6 +556,7 @@ p.contact-para
 #file_upload
 {
 	 width: 295px;
+	 display: none;
 }
 #results
 {
